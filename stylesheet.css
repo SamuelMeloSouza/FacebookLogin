@@ -1,0 +1,69 @@
+body{
+font-family: Calibri;
+background-color: white;
+}
+a{
+text-decoration: none;
+color: #1C86EE;
+}
+ul{
+list-style-type: none;
+}
+.cabecalho{
+color: #1E90FF;
+position: relative;
+text-align: center;
+font-size: 15px;
+}
+.formulario{
+text-align: center;
+}
+#login{
+boder: ;
+border: none;
+background-color:#F5F5F5;
+width: 400px;
+height: 50px;
+border-radius: 10px; 
+}
+#senha{
+border: none;
+background-color: #F5F5F5;
+width: 400px;
+height: 50px;
+border-radius: 10px; 
+}
+#entrar{
+border: solid 1px;
+color: white;
+background-color: #1C86EE;
+width: 400px;
+height: 40px;
+border-radius: 10px; 
+}
+#novaConta{
+border: solid 1px;
+color: white;
+background-color: #228B22;
+width: 150px;
+height: 40px;
+border-radius: 10px; 
+}
+.rodape{
+background-color: white;
+width: 500px;
+position: relative;
+left: 200px;
+right: 200px;
+}
+.lista1{
+background-color: white;
+width: 150px;
+position: 160px;
+}
+.lista2{
+background-color: white;
+width: 160px;
+left: 340px;
+top: -70px;
+}
